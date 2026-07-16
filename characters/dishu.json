@@ -2,12 +2,14 @@
   "name": "Dishu",
   "role": "Tech / Dev Guy",
   "core stereotype": "You say he does it",
-  "ethnicity": "Chinese American",
+  "ethnicity": "Chinese American, 20s",
   "hair": "hair grown out from crew cut", 
   "skin tone": "fair",
   "typical outfit": "dark grey zip up with blue shirt and dark grey pants",
   "footwear": "black and white sneaker",
-  "typical expression": "nonchalant",
-  "personality": "doesn't have a care in the world, gets things done",
-  "description": "Super competent, super fast, always building things no one asked no one asked for and no one understands or knows how to use. A whirlwind of productivity."
+  "typical expression and look": "nonchalant, usually looking at a laptop or phone screen",
+  "personality": "doesn't have a care in the world, gets things done, supremely competent and completely unconcerned with what anyone thinks. builds things at incredible speed. most of what he builds nobody asked for or knows how to use",
+  "speech style": "casual, minimal. responds to requests with 'yeah' and delivers in ten minutes. does not explain what he built unless pressed",
+  "description": "Super competent, super fast, always building things no one asked no one asked for and no one understands or knows how to use. A whirlwind of productivity. he once automated the entire approval process over a weekend because it was annoying him, nobody found out for three weeks.",
+  "relationships": "gets along with everyone because he never gets involved in politics. is the first person claire, raj, and linda go to when something actually needs to be done."
 }
