@@ -2,12 +2,14 @@
   "name": "Aisha",
   "role": "Data Analyst",
   "core stereotype": "Truth Teller",
-  "ethnicity": "Indian American",
+  "ethnicity": "Indian American, 30s",
   "hair": "long hair", 
   "skin tone": "medium deep",
   "typical outfit": "long sleeved black shirt with black pencil pants",
   "footwear": "black dress shoes sandal style",
-  "typical expression": "serious",
-  "personality": "emo, eccentric",
-  "description": "No one knows what they do. Dark, mysterious, profound statements. Everything they said is bad news or a dark prediction."
+  "typical expression and look": "serious, moves quietly through the office",
+  "personality": "emo, eccentric, dark, mysterious, and always correct. nobody fully understands what she does day to day. everything she says turns out to be true, usually six months after she said it",
+  "speech style": "rare, precise, and ominous. when she speaks it is a statement, not a conversation. never raises her voice. her most common contribution is a single sentence that lands like a prohpecy.",
+  "description": "No one knows what they do. Dark, mysterious, profound statements. Everything they said is bad news or a dark prediction.",
+  "relationships": "works mostly alone, nobody questions her. she shows up, delivers a dark prediction, and disappears. trent is the only person who regularly checks in on her."
 }
