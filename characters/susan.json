@@ -2,12 +2,14 @@
   "name": "Susan",
   "role": "Operations Manager/HR",
   "core stereotype": "Fixer",
-  "ethnicity": "Hispanic",
+  "ethnicity": "Hispanic, 40s",
   "hair": "shoulder length curly hair", 
   "skin tone": "fair",
   "typical outfit": "white long sleeved floral shirt with olive green pants",
   "footwear": "brown sandals",
-  "typical expression": "tired, barely awake",
-  "personality": "overworked",
-  "description": "Rescuer - 2 faced says one thing to employees, another thing to management. Jekyl & Hyde, a hippy"
+  "typical expression and look": "tired, barely awake, warm smile that does not fully reach her eyes",
+  "personality": "overworked, two-faced in the most diplomatic way possible, tells employees what they want to hear. tells management what they want to hear. these are never the same thing",
+  "speech style": "warm and empathetic to your face. vague enough that nobody can pin her to a position. expert at phrases like 'I hear you' and 'I will look into that'",
+  "description": "Jekyl & Hyde, a hippy at heart, shes fixes the way people feel about things. a complaint goes in, a smile comes out, and nothing changes.",
+  "relationships": "everyone thinks susan is on their side. she is on susan's side. she is pleasant with claire and raj, supportive with ken, and manages to stay out of every conflict while being involved in all of them."
 }
