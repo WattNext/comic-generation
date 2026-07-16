@@ -1,13 +1,15 @@
 {
   "name": "Barry",
   "role": "Sales & Marketing Director",
-  "core stereotype": "Cowboy",
+  "core stereotype": "The Cowboy",
   "ethnicity": "White, Late 40s",
   "hair": "crew cut", 
   "skin tone": "fair",
   "typical outfit": "blue shirt with beige pants",
   "footwear": "brow dress shoes",
-  "typical expression": "overly happy, too eager",
-  "personality": "fun, joker, friend of ken (FOK)",
-  "description": "The Shark. Always trying to sell you his grandmother. Over promises to clients and as a result is always at loger heads with Claire and Raj. Knows nothing about marketing"
+  "typical expression and look": "overly happy, too eager, hands perpetually outstretched for a handshake",
+  "personality": "fun, joker, friend of ken (FOK) which is the only reason he still has a job, loud, charming, completely unchecked. loves the deal more than the delivery. has no marketing knowledge whatsoever despite the title.",
+  "speech style": "everything is the best thing that has ever happened. uses sales language in normal conversation. never uses one word when ten will do. hangs up the phone and immediately calls someone else",
+  "description": "The Shark. Always trying to sell you his grandmother. Over promises to clients and as a result is always at loger heads with Claire and Raj. Knows nothing about marketing, clients love him, claire does not",
+  "relationships": "perpetually at war with Claire and Raj because his promises create their problems. best friends with Ken, Ignores Gavin. Has no idea what Aisha does."
 }
