@@ -2,12 +2,14 @@
   "name": "Gavin",
   "role": "Strategy Director",
   "core stereotype": "Employee #2",
-  "ethnicity": "White",
+  "ethnicity": "White, late 20s to early 30s",
   "hair": "crew cut", 
   "skin tone": "fair",
   "typical outfit": "dark blue suit with a white shirt and blue tie",
   "footwear": "brow dress shoes",
-  "typical expression": "smirk, I know all kind of look",
-  "personality": "egotistical, micromanager, friend of ken (FOK)",
-  "description": "Useless, pointless FOK, highly educated - MBA in business but cannot get anyone to adopt his ideas. Promoted really fast, with no merit. He’s Ken son. He’s always trying to show he’s the boss. He’s a real blocker - everything has to go through."
+  "typical expression and look": "smirk, I know all kind of look",
+  "personality": "egotistical, micromanager, friend of ken (FOK), deeply insecure beneath the surface. highly educated, MBA from a good school, but cannot get anyone to actually adopt his ideas. Promoted entirely without merit.",
+  "speech style": "speaks in business school vocabulary. uses words like 'synergy', 'leverage', and 'strategic framework' in every sentence. Always sounds like he is presenting to investors",
+  "description": "He’s always trying to show he’s the boss. He’s a real blocker - everything has to go through. Promoted faster than anyone else in company history. Never successfully implemented a single idea. He thinks he is useful but in reality is useless",
+  "relationships": "Ken is his father. Everything flows through Gavin, or is supposed to. Claire humors him. Raj ignores him. Barry finds him irrelevant. Linda works around him entirely."
 }
