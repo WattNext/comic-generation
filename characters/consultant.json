@@ -2,12 +2,16 @@
   "name": "Rotating Guest",
   "role": "Consultant/Investor/New VP",
   "core stereotype": "Wildcard",
-  "ethnicity": "White",
+  "ethnicity": "White, 40s",
   "hair": "crew cut", 
   "skin tone": "fair",
   "typical outfit": "dark blue suit with white shirt and a purple tie",
   "footwear": "black dress shoes",
-  "typical expression": "overly happy, smiling all the time",
-  "personality": "thinks he knows everything",
-  "description": "The Seagull - arrives, makes a load of noise, shits on you and buggers off, leaving everyone else to clean up the mess. Tells the boss everything his team has ever told him, but he never heard. Will try and bring in his mates."
+  "typical expression and look": "overly happy, smiling all the time, arrives with a rolling suitcase, always smiling confidently",
+  "personality": "thinks he knows everything, supremely self-assured. has never met a room he did not immediately try to take over",
+  "speech style": "polished corporate-speak, every sentence sounds like it came from a business podcast. uses owrds like 'synergy', 'transofmration', and 'value creaetion' without irony",
+  "description": "The Seagull - arrives, makes a load of noise, leaves a mess and disappears, leaving everyone else to clean up the mess. Tells ken everything his team has ever told him, but he never heard. Will try and bring in his mates.",
+"relationships": "arrives unannounced or over-announced. ken loves him. claire clocks what he is within thirty seconds. raj begins calculating the cost of his visit before he sits down.",
+
+  "IMPORTANT" : "This character can change at a moments notice. This is a rotating character. The character disruption is for the consultant."
 }
